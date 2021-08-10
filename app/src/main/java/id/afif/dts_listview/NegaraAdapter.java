@@ -12,6 +12,8 @@ import androidx.annotation.Nullable;
 
 import java.util.ArrayList;
 
+import id.afif.dts_listview.collections.Negara;
+
 public class NegaraAdapter extends ArrayAdapter<Negara> {
 
     private ArrayList<Negara> dataNegara;

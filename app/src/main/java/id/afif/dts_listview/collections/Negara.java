@@ -1,12 +1,15 @@
-package id.afif.dts_listview;
+package id.afif.dts_listview.collections;
 
 public class Negara {
 
     public String nama;
     public String detail;
 
-    public Negara(String nama, String detail) {
+    public void setNama(String nama) {
         this.nama = nama;
+    }
+
+    public void setDetail(String detail) {
         this.detail = detail;
     }
 
