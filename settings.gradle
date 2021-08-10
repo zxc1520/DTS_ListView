@@ -1,0 +1,2 @@
+rootProject.name = "DTS_ListView"
+include ':app'

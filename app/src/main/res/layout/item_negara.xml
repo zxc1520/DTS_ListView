@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/tvNama"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/nama_negara"
+            android:textSize="19sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:id="@+id/tvDetail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/detail_negara"
+            android:layout_below="@id/tvNama"
+            android:maxLines="2"/>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/icDetail"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:src="@drawable/ic_detail"
+        android:layout_marginTop="5dp"/>
+
+</LinearLayout>
