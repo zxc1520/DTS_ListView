@@ -16,7 +16,7 @@ import id.afif.dts_listview.collections.NegaraData;
 
 public class MainActivity extends AppCompatActivity {
 
-    NegaraAdapter negaraAdapter;
+    private NegaraAdapter negaraAdapter;
 
     private ListView listView;
     private ArrayList<Negara> dataNegara = new ArrayList<>();
