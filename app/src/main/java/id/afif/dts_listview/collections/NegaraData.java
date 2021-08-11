@@ -16,7 +16,7 @@ public class NegaraData {
     };
 
     public static String[] detail = {
-            "disebut juga dengan Negara Kesatuan Republik Indonesia; atau hanya Republik Indonesia adalah negara di Asia Tenggara yang dilintasi garis khatulistiwa dan berada di antara daratan benua Asia dan Australia, serta antara Samudra Pasifik dan Samudra Hindia.",
+            "disebut juga dengan Negara Kesatuan Republik Indonesia adalah negara di Asia Tenggara yang dilintasi garis khatulistiwa dan berada di antara daratan benua Asia dan Australia, beribukotakan Jakarta.",
             "Malaysia adalah sebuah negara federal yang terdiri dari tiga belas negeri dan tiga wilayah federal di Asia Tenggara dengan luas 329.847 km persegi. Ibu kotanya adalah Kuala Lumpur, sedangkan Putrajaya menjadi pusat pemerintahan federal.",
             "Brunei Darussalam atau Brunei, nama resmi: Negara Brunei Darussalam, adalah negara berdaulat di Asia Tenggara yang terletak di pantai utara pulau Kalimantan. ",
             "Thailand, secara resmi Kerajaan Thailand yang dibaca Rātcha-āṇāchạk Thai, Rāja-ādnyācạkra Thai; atau Prathēt Thai, Pradēsa Thai, atau Mueang Thai, adalah sebuah negara di Asia Tenggara yang berbatasan dengan Laos dan Kamboja di timur, Malaysia dan Teluk Siam di selatan, dan Myanmar dan Laut Andaman di barat.",
